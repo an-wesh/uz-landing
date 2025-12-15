@@ -251,7 +251,7 @@ export default function UZLanding() {
         <div className="max-w-6xl mx-auto px-4 sm:px-6 lg:px-8 py-8 text-center text-sm text-slate-600">
           <p>
             Early validation project · No spam · Community-driven · {' '}
-            <span className="text-purple-600 font-semibold">Built by Anwesh Mohanty</span>
+            <span className="text-purple-600 font-semibold">Built by Gen-Z</span>
           </p>
         </div>
       </footer>
