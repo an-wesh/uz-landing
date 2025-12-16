@@ -24,16 +24,16 @@ export default function UZLanding() {
       </nav>
 
       {/* Hero Section */}
-      <section className="pt-32 pb-16 px-4 sm:px-6 lg:px-8 text-center max-w-4xl mx-auto">
+      <section className="pt-24 sm:pt-32 pb-12 sm:pb-16 px-4 sm:px-6 lg:px-8 text-center max-w-4xl mx-auto">
         <div className="space-y-6">
-          <h1 className="text-5xl sm:text-6xl font-black leading-tight text-slate-900">
+          <h1 className="text-4xl sm:text-5xl md:text-6xl font-black leading-tight text-slate-900">
             Stop Losing Money{' '}
             <span className="bg-gradient-to-r from-purple-600 via-blue-600 to-purple-600 bg-clip-text text-transparent">
               While Learning to Trade
             </span>
           </h1>
           
-          <p className="text-lg sm:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
+          <p className="text-base sm:text-lg md:text-xl text-slate-600 max-w-2xl mx-auto leading-relaxed">
             Practice with live market data and AI-guided feedback. Build winning trading instincts before risking your first rupee—designed for Gen Z learners who want to actually succeed.
           </p>
 
@@ -42,7 +42,7 @@ export default function UZLanding() {
               href={googleFormLink}
               target="_blank"
               rel="noopener noreferrer"
-              className="inline-flex items-center justify-center px-8 py-4 bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-full text-base font-bold hover:shadow-xl hover:scale-105 transition-all duration-300"
+              className="inline-flex items-center justify-center px-6 sm:px-8 py-4 sm:py-4 w-full sm:w-auto bg-gradient-to-r from-purple-600 to-blue-600 text-white rounded-full text-base font-bold hover:shadow-xl hover:scale-105 transition-all duration-300"
             >
               Shape the Product (2‑min Form) <ArrowRight className="ml-2 h-5 w-5" />
             </a>
@@ -104,7 +104,7 @@ export default function UZLanding() {
       </section>
 
       {/* Solution Section */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8">
+      <section className="py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 text-center mb-12">
             What We're Building
@@ -216,7 +216,7 @@ export default function UZLanding() {
       </section>
 
       {/* Product Demo Mockup - NEW */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8">
+      <section className="py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-4xl mx-auto">
           <h2 className="text-3xl sm:text-4xl font-bold text-slate-900 text-center mb-12">
             Here's What You'll Get
@@ -369,7 +369,7 @@ export default function UZLanding() {
       </section>
 
       {/* FAQ Section */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8">
+      <section className="py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto">
           <h2 className="text-3xl font-bold text-slate-900 text-center mb-12">
             Quick Questions
@@ -408,7 +408,7 @@ export default function UZLanding() {
       </section>
 
       {/* Final CTA Section */}
-      <section className="py-16 px-4 sm:px-6 lg:px-8">
+      <section className="py-12 sm:py-16 px-4 sm:px-6 lg:px-8">
         <div className="max-w-3xl mx-auto bg-gradient-to-br from-purple-600 via-blue-600 to-blue-600 text-white rounded-2xl p-8 sm:p-12 text-center">
           <h2 className="text-3xl sm:text-4xl font-bold mb-6">
             Help Shape UZ
