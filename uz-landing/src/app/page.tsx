@@ -230,7 +230,7 @@ export default function UZLanding() {
                   <div className="text-center">
                     <Zap className="h-16 w-16 text-purple-600 mx-auto mb-4" />
                     <p className="text-slate-700 font-semibold">Paper Trading Dashboard</p>
-                    <p className="text-slate-600 text-sm mt-1">(Screenshot coming soon)</p>
+                    <p className="text-slate-600 text-sm mt-1"></p>
                   </div>
                 </div>
               </div>
@@ -263,7 +263,7 @@ export default function UZLanding() {
                   <div className="text-center">
                     <BookOpen className="h-16 w-16 text-blue-600 mx-auto mb-4" />
                     <p className="text-slate-700 font-semibold">AI Learning Module</p>
-                    <p className="text-slate-600 text-sm mt-1">(UI mockup coming soon)</p>
+                    <p className="text-slate-600 text-sm mt-1"></p>
                   </div>
                 </div>
               </div>
@@ -296,7 +296,7 @@ export default function UZLanding() {
                   <div className="text-center">
                     <Users className="h-16 w-16 text-pink-600 mx-auto mb-4" />
                     <p className="text-slate-700 font-semibold">Student Community</p>
-                    <p className="text-slate-600 text-sm mt-1">(Mockup coming soon)</p>
+                    <p className="text-slate-600 text-sm mt-1"></p>
                   </div>
                 </div>
               </div>
