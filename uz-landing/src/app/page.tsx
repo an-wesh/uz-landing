@@ -112,7 +112,7 @@ export default function UZLanding() {
 
           <div className="space-y-4 mb-8">
             {/* Solution 1 */}
-            <div className="flex gap-4 items-start p-6 bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl border border-purple-200 hover:shadow-md transition-shadow">
+            <div className="flex gap-3 sm:gap-4 items-start p-4 sm:p-6 bg-gradient-to-br from-purple-50 to-purple-100 rounded-xl border border-purple-200 hover:shadow-md transition-shadow">
               <CheckCircle className="h-6 w-6 text-purple-600 flex-shrink-0 mt-0.5" />
               <div>
                 <h3 className="text-base font-bold text-slate-900 mb-1">Paper Trading with Live Market Data</h3>
@@ -123,7 +123,7 @@ export default function UZLanding() {
             </div>
 
             {/* Solution 2 */}
-            <div className="flex gap-4 items-start p-6 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl border border-blue-200 hover:shadow-md transition-shadow">
+            <div className="flex gap-3 sm:gap-4 items-start p-4 sm:p-6 bg-gradient-to-br from-blue-50 to-blue-100 rounded-xl border border-blue-200 hover:shadow-md transition-shadow">
               <CheckCircle className="h-6 w-6 text-blue-600 flex-shrink-0 mt-0.5" />
               <div>
                 <h3 className="text-base font-bold text-slate-900 mb-1">AI-Guided Learning Paths</h3>
@@ -134,7 +134,7 @@ export default function UZLanding() {
             </div>
 
             {/* Solution 3 */}
-            <div className="flex gap-4 items-start p-6 bg-gradient-to-br from-pink-50 to-pink-100 rounded-xl border border-pink-200 hover:shadow-md transition-shadow">
+            <div className="flex gap-3 sm:gap-4 items-start p-4 sm:p-6 bg-gradient-to-br from-pink-50 to-pink-100 rounded-xl border border-pink-200 hover:shadow-md transition-shadow">
               <CheckCircle className="h-6 w-6 text-pink-600 flex-shrink-0 mt-0.5" />
               <div>
                 <h3 className="text-base font-bold text-slate-900 mb-1">Learn with Your Peers</h3>
@@ -145,7 +145,7 @@ export default function UZLanding() {
             </div>
 
             {/* Solution 4 */}
-            <div className="flex gap-4 items-start p-6 bg-gradient-to-br from-cyan-50 to-cyan-100 rounded-xl border border-cyan-200 hover:shadow-md transition-shadow">
+            <div className="flex gap-3 sm:gap-4 items-start p-4 sm:p-6 bg-gradient-to-br from-cyan-50 to-cyan-100 rounded-xl border border-cyan-200 hover:shadow-md transition-shadow">
               <CheckCircle className="h-6 w-6 text-cyan-600 flex-shrink-0 mt-0.5" />
               <div>
                 <h3 className="text-base font-bold text-slate-900 mb-1">Graduate to Real Trading (Compliance Built In)</h3>
@@ -259,7 +259,7 @@ export default function UZLanding() {
             {/* Feature 2 */}
             <div className="flex flex-col md:flex-row-reverse gap-8 items-center">
               <div className="md:w-1/2">
-                <div className="bg-gradient-to-br from-blue-200 to-cyan-200 rounded-2xl aspect-video flex items-center justify-center">
+                <div className="bg-gradient-to-br from-blue-200 to-cyan-200 rounded-2xl aspect-video max-h-[200px] sm:max-h-none flex items-center justify-center">
                   <div className="text-center">
                     <BookOpen className="h-16 w-16 text-blue-600 mx-auto mb-4" />
                     <p className="text-slate-700 font-semibold">AI Learning Module</p>
