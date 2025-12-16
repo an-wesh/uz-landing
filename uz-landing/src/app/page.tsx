@@ -170,7 +170,7 @@ export default function UZLanding() {
           <div className="text-center mb-12">
             <p className="text-sm font-semibold text-purple-600 mb-2">ALREADY VALIDATING</p>
             <p className="text-2xl font-bold text-slate-900">
-              50+ Student Traders Are Shaping UZ
+              15+ Student Traders Are Shaping UZ
             </p>
           </div>
 
@@ -195,19 +195,19 @@ export default function UZLanding() {
 
           <div className="grid md:grid-cols-3 gap-6 text-center">
             <div className="space-y-2">
-              <p className="text-3xl font-black text-purple-600">50+</p>
+              <p className="text-3xl font-black text-purple-600">15+</p>
               <p className="text-slate-900 font-semibold">Beta Testers</p>
               <p className="text-slate-600 text-sm">Across engineering colleges</p>
             </div>
 
             <div className="space-y-2">
-              <p className="text-3xl font-black text-blue-600">300+</p>
+              <p className="text-3xl font-black text-blue-600">150+</p>
               <p className="text-slate-900 font-semibold">Feedback Forms</p>
               <p className="text-slate-600 text-sm">Real student pain points</p>
             </div>
 
             <div className="space-y-2">
-              <p className="text-3xl font-black text-pink-600">₹50L+</p>
+              <p className="text-3xl font-black text-pink-600">₹25K+</p>
               <p className="text-slate-900 font-semibold">Tested Capital Loss</p>
               <p className="text-slate-600 text-sm">Real problem we're solving</p>
             </div>
