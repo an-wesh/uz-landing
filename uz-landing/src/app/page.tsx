@@ -2,7 +2,7 @@ import React from 'react';
 import { ArrowRight, TrendingUp, Users, BookOpen, AlertCircle, CheckCircle, Play, Zap } from 'lucide-react';
 
 export default function UZLanding() {
-  const googleFormLink = "[INSERT_GOOGLE_FORM_LINK_HERE]";
+  const googleFormLink = "https://forms.gle/9RaYEdsTCbVgr5iZ8";
   
   return (
     <div className="min-h-screen bg-gradient-to-b from-slate-50 via-purple-50 to-blue-50">
