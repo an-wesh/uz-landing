@@ -1,0 +1,41 @@
+{
+  "python.defaultInterpreterPath": "${workspaceFolder}/backend/venv/Scripts/python.exe",
+  "python.analysis.extraPaths": ["${workspaceFolder}/backend"],
+  "python.analysis.exclude": [
+    "**/node_modules",
+    "**/.venv",
+    "**/.venv/**",
+    "**/venv",
+    "**/venv/**",
+    "backend/venv",
+    "backend/venv/**",
+    "**/__pycache__",
+    "**/__pycache__/**",
+    "**/*.pyc",
+    "**/.git",
+    "**/.git/**",
+    "**/.pytest_cache",
+    "**/.pytest_cache/**",
+    "**/.mypy_cache",
+    "**/.mypy_cache/**",
+    "**/.env",
+    "**/.env.local",
+    "**/.DS_Store",
+    "**/.*",
+    "**/dist",
+    "**/build",
+    "**/*.egg-info",
+    "frontend",
+    "frontend/**",
+    "frontend/node_modules",
+    "frontend/node_modules/**",
+    "frontend/.next",
+    "frontend/.next/**"
+  ],
+  "python.analysis.ignoreExternal": false,
+  "python.linting.enabled": false,
+  "[python]": {
+    "editor.defaultFormatter": "ms-python.python",
+    "editor.formatOnSave": true
+  }
+}
